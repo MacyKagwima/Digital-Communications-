@@ -1,9 +1,9 @@
 # Digital-Communications-
-# Sampling Theorem and Signal Reconstruction
+# Sampling Theorem, Signal Reconstruction ands Quantization
 
 ## Overview
 This repository contains MATLAB simulations and a LaTeX report for
-Experiment 1 (Sampling Theorem Analysis) and Experiment 2 (Signal Reconstruction).
+Experiment 1 (Sampling Theorem Analysis), Experiment 2 (Signal Reconstruction) and Experiment 3 (Quantization).
 
 ## Code Structure
 - `matlab/provided/` : Base MATLAB code provided by the lecturer
